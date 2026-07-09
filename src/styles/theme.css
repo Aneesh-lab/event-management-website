@@ -1,0 +1,13 @@
+
+@theme {
+  --color-primary: #C8A24A;
+  --color-secondary: #121212;
+  --color-background: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-accent: #7B2CBF;
+
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Poppins", sans-serif;
+
+  --container-content: 1200px;
+}
