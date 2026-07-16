@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
 import { featuredServices } from "../data/services";
 
 export default function FeaturedServices() {
@@ -18,12 +17,7 @@ export default function FeaturedServices() {
             </h2>
           </div>
 
-          <Link
-            to="/services"
-            className="text-[#C8A24A] hover:underline"
-          >
-            View All Services →
-          </Link>
+         
         </div>
 
         <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-8">
@@ -57,9 +51,7 @@ export default function FeaturedServices() {
                   {service.description}
                 </p>
 
-                <button className="mt-6 text-[#C8A24A] font-medium hover:translate-x-2 transition">
-                  Learn More →
-                </button>
+                
 
               </div>
 

@@ -56,7 +56,12 @@ export default function Footer() {
 
           <div className="flex gap-4 mt-5 text-xl">
             <FaFacebookF />
-            <FaInstagram />
+            <a href="https://www.instagram.com/royal_catering_and_decorations?igsh=cDE2bGZreWduemZi" target="_blank" rel="noopener noreferrer">
+              <FaInstagram />
+              </a>
+              
+            
+            
             <FaLinkedinIn />
           </div>
         </div>
