@@ -1,5 +1,5 @@
 
-import Hero from "../components/Hero";
+import Hero from "../components/hero.jsx";
 import AboutSection from "../components/AboutSection";
 import FeaturedServices from "../components/FeaturedServices";
 import WhyChooseUs from "../components/WhyChooseUs";
