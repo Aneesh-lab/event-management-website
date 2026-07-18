@@ -52,8 +52,8 @@ export default function Footer() {
           </h3>
           <p>Rohit Gupta</p>
           <p>Ashish Dwivedi</p>
-          <p>royalcateringanddecoration@gmail.com</p>
           <p>+91 83491 06752</p>
+          <p>royalcateringanddecoration@gmail.com</p>
 
           <div className="flex gap-4 mt-5 text-xl">
             <FaFacebookF />
