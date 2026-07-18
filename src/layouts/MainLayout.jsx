@@ -15,6 +15,8 @@ export default function MainLayout({ children }) {
 
   <WhatsAppButton />
       <Footer />
+      
+
     </>
   );
 } 

@@ -50,13 +50,14 @@ export default function Footer() {
           <h3 className="font-semibold mb-4">
             Contact
           </h3>
-
+          <p>Rohit Gupta</p>
+          <p>Ashish Dwivedi</p>
           <p>royalcateringanddecoration@gmail.com</p>
           <p>+91 83491 06752</p>
 
           <div className="flex gap-4 mt-5 text-xl">
             <FaFacebookF />
-            <a href="https://www.instagram.com/royal_catering_and_decorations?igsh=cDE2bGZreWduemZi" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/royal_catering_and_decorations?igsh=MXJrdWNyemx0NDl1NQ==" target="_blank" rel="noopener noreferrer">
               <FaInstagram />
               </a>
               

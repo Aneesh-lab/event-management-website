@@ -14,6 +14,7 @@ export default function Home() {
       <AboutSection />
       <FeaturedServices />
       <WhyChooseUs />
+      
       <FeaturedEvents />
       <ProcessTimeline />
       <CTASection />
